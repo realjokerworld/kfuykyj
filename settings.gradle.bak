@@ -1,0 +1,2 @@
+rootProject.name = "𝐙𝐎𝐑𝐎 𝐇𝐀𝐂𝐊"
+include(":app")
